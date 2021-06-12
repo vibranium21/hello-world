@@ -1,9 +1,11 @@
-// Your First C++ Program
+/*
+ * Your first C++ Program
+ */
 
 #include <iostream>
 
-int main() {
+int main()
+{
     std::cout << "Hello World!";
     return 0;
 }
-
