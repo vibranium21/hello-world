@@ -18,6 +18,7 @@ I dont have a license because a lot of code was from tutorials and stuff of othe
 - [Formular](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/form.html)
 ##### Python
 - [Rock Paper Scissors](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/rock_paper_scissors.py)
+- [Mad Libs](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/mad_libs.py)
 ### Contributors
 - [@Virinas-code](https://github.com/Virinas-code/) : Linting
 __________
@@ -33,8 +34,10 @@ __________
 - [ ] Rename and move projects
    - [x] Rename and move Formular
    - [x] Rename and move Rock Paper Scissors
-   - [ ] Rename and move other projects
+   - [x] Rename and move Mad Libs
+   - [ ] Rename and move Calculator
 - [ ] Lint projects
    - [x] Lint Formular
    - [x] Lint Rock Paper Scissors
-   - [ ] Lint other projects
+   - [x] Lint Mad Libs
+   - [ ] Lint Calculator
