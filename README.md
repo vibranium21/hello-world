@@ -22,6 +22,9 @@ I dont have a license because a lot of code was from tutorials and stuff of othe
 - [@Virinas-code](https://github.com/Virinas-code/) : Linting
 __________
 ### Pull request
+#### Objective
+- Create a proper file system
+- Lint and check all files
 #### TO-DO
 ##### Hello worlds
 - [x] Rename and move Hello worlds
