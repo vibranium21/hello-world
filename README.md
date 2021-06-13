@@ -21,6 +21,7 @@ I dont have a license because a lot of code was from tutorials and stuff of othe
 - [Mad Libs](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/mad_libs.py)
 - [Calculator](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/calculator.py)
 ### Contributors
+- [@vibranium21](https://github.com/vibranium21/) : Code and comments
 - [@Virinas-code](https://github.com/Virinas-code/) : Linting and file system
 __________
 ### Pull request
