@@ -1,2 +1,1 @@
-various files from hello world to lichess-bot
-i dont have a license because a lot of code was from tutorials and stuff
+@virinas-code has a fork that is much improved
