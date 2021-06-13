@@ -43,3 +43,6 @@ __________
    - [x] Lint Rock Paper Scissors
    - [x] Lint Mad Libs
    - [x] Lint Calculator
+#### Conflicts
+[@vibranium21](https://github.com/vibranium21) commit to his project and separate Pull request #1 of main repository.
+He his always the author of the repository but there is now 2 versions.
