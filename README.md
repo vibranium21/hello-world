@@ -19,8 +19,9 @@ I dont have a license because a lot of code was from tutorials and stuff of othe
 ##### Python
 - [Rock Paper Scissors](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/rock_paper_scissors.py)
 - [Mad Libs](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/mad_libs.py)
+- [Calculator](https://github.com/Virinas-code/hello-world/blob/main/hello_projects/calculator.py)
 ### Contributors
-- [@Virinas-code](https://github.com/Virinas-code/) : Linting
+- [@Virinas-code](https://github.com/Virinas-code/) : Linting and file system
 __________
 ### Pull request
 #### Objective
@@ -31,13 +32,13 @@ __________
 - [x] Rename and move Hello worlds
 - [x] Lint Hello worlds
 ##### Projects
-- [ ] Rename and move projects
+- [x] Rename and move projects
    - [x] Rename and move Formular
    - [x] Rename and move Rock Paper Scissors
    - [x] Rename and move Mad Libs
-   - [ ] Rename and move Calculator
-- [ ] Lint projects
+   - [x] Rename and move Calculator
+- [x] Lint projects
    - [x] Lint Formular
    - [x] Lint Rock Paper Scissors
    - [x] Lint Mad Libs
-   - [ ] Lint Calculator
+   - [x] Lint Calculator
